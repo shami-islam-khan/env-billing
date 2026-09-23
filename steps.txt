@@ -1,0 +1,35 @@
+step-1
+create a box
+(python -m venv venv)
+
+
+step-2
+inside a box
+.\venv\Scripts\Activate.ps1
+
+
+Step-3
+install django
+pip3 install django
+
+
+step-4
+verification
+python -m django --version
+
+
+Activate ⭐⭐
+.\venv\Scripts\Activate.ps1
+
+
+start project
+django-admin startproject mysite
+
+
+Run manage.py
+cd mysite
+python manage.py runserver
+
+
+Run off
+Ctrl + C
