@@ -33,3 +33,16 @@ python manage.py runserver
 
 Run off
 Ctrl + C
+
+
+Jevabe existing project abar chalu korbo
+-----------------------------------------
+PS E:\Vs Code\django\env_billing> .\venv\Scripts\Activate.ps1
+(venv) PS E:\Vs Code\django\env_billing> cd mysite
+(venv) PS E:\Vs Code\django\env_billing\mysite> python manage.py runserver
+
+
+creating apps
+--------------
+django-admin startapp invoices
+akhane invoices ta hoche akta nam
